@@ -1,0 +1,26 @@
+[
+  {
+    "userId": 1,
+    "title": "Nasi Goreng Spesial",
+    "imageUrl": "https://spoonacular.com/recipeImages/nasi-goreng.jpg",
+    "spoonacularId": 654321
+  },
+  {
+    "userId": 1,
+    "title": "Ayam Bakar Madu",
+    "imageUrl": "https://spoonacular.com/recipeImages/ayam-bakar.jpg",
+    "spoonacularId": null
+  },
+  {
+    "userId": 2,
+    "title": "Rendang Daging Sapi",
+    "imageUrl": "https://spoonacular.com/recipeImages/rendang.jpg",
+    "spoonacularId": 987654
+  },
+  {
+    "userId": 3,
+    "title": "Salad Buah Segar",
+    "imageUrl": "https://spoonacular.com/recipeImages/salad-buah.jpg",
+    "spoonacularId": 987654
+  }
+]

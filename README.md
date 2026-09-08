@@ -1,1 +1,1 @@
-# PantryPal-V1
+# Individual Project Phase 2

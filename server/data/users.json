@@ -1,0 +1,20 @@
+[
+  {
+    "email": "budi@example.com",
+    "username": "Budi Santoso",
+    "password": "password123",
+    "avatarUrl": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "email": "siti@example.com",
+    "username": "Siti Aminah",
+    "password": "password123",
+    "avatarUrl": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "email": "andi@example.com",
+    "username": "Andi Wijaya",
+    "password": "password123",
+    "avatarUrl": "https://i.pravatar.cc/150?img=3"
+  }
+]
